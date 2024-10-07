@@ -1,0 +1,7 @@
+.project
+.pydevproject
+Pre_FinnPy/.settings/*
+finnpy_speedups/.settings/
+finnpy_speedups/Debug/*
+finnpy_speedups/Release/*
+.cproject
